@@ -7,4 +7,4 @@ This program encodes entered student informations (name, surname, school number)
 * Password of the encoded text is biggest divider prime factor of student number.
 ## License
 For anyone who keeps the door open;
-- [The GNU General Public License](./License)
+- [The GNU General Public License](./LICENSE)
